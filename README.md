@@ -1,5 +1,5 @@
 <h2>Hi There! I`m Nima :wave:</h2>
-
+<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg"  />
 <h3>👨‍💻&nbsp;About Me</h3>
 
 - 🎓&nbsp;High School Student Majoring In Computer Science
