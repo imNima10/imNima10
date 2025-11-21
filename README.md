@@ -4,6 +4,7 @@
 
 - 🎓&nbsp;High School Student Majoring In Computer Science
 - ⚡&nbsp;Node.js And Backend Enthusiast
+- 🤖 Building Telegram Bots  
 - 🌱&nbsp;Always learning, Building, And Sharing
 
 ### 🚀&nbsp;Skills
